@@ -1,2 +1,3 @@
 # first-repo
-git course demo
+This is my first repository
+author-Nishmitha
